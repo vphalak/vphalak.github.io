@@ -1,0 +1,6 @@
+# Quarto
+/.quarto/
+_site/
+
+# Mac files
+.DS_Store
