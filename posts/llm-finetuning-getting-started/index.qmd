@@ -1,0 +1,9 @@
+---
+title: "Fine-tune LLMs with Axolotl - A Quickstart Guide"
+author: "Vivek Phalak"
+date: "2024-05-28"
+categories: [llm, finetuning, quickstart]
+image: "image.jpg"
+---
+
+This is a post with executable code.

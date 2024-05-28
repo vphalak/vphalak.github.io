@@ -1,5 +1,5 @@
 ---
-title: "vphalak.github.io"
+title: "ML, AI and Data Notes"
 listing:
   contents: posts
   sort: "date desc"
