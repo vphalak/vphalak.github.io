@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/llm-finetuning-getting-started/index.html",
-    "href": "posts/llm-finetuning-getting-started/index.html",
-    "title": "Fine-tune LLMs with Axolotl - A Quickstart Guide",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,10 +7,17 @@
     "text": "I use this blog to capture notes on machine learning and data engineering."
   },
   {
+    "objectID": "posts/llm-finetuning-getting-started/index.html",
+    "href": "posts/llm-finetuning-getting-started/index.html",
+    "title": "Fine-tune LLMs with Axolotl - A Quickstart Guide",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "ML, AI and Data Notes",
     "section": "",
-    "text": "Fine-tune LLMs with Axolotl - A Quickstart Guide\n\n\n\n\n\n\nllm\n\n\nfinetuning\n\n\nquickstart\n\n\n\n\n\n\n\n\n\nMay 28, 2024\n\n\nVivek Phalak\n\n\n\n\n\n\nNo matching items"
+    "text": "Fine-tune LLMs with Axolotl - A Quickstart Guide\n\n\n\nllm\n\nfinetuning\n\nquickstart\n\n\n\n\n\n\n\n\n\nMay 28, 2024\n\n\nVivek Phalak\n\n\n\n\n\nNo matching items"
   }
 ]
